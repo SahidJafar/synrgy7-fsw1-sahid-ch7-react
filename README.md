@@ -1,3 +1,6 @@
+##Result
+![Screenshot (2700)](https://github.com/SahidJafar/synrgy7-fsw1-sahid-ch7-react/assets/58686490/2cb725bb-5735-4356-82b1-621bd8235fce)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
